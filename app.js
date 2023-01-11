@@ -1,1 +1,1 @@
-
+console.log("my-app");
